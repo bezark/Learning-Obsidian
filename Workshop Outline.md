@@ -9,4 +9,7 @@
 - Downloading the Learning Obsidian Vault
 
 # How Obsidian Works
-- [[Making Your Own Obsidian Plugins]]
+- [[Philosophy of Obsidian]]
+- [[Ways of Navigating]]
+- [[What Obsidian is Made From]]
+- [[Obsidian Plugins]]

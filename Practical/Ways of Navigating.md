@@ -2,3 +2,4 @@
 - Searching
 - [[Files]] and [[Folders]]
 - [[Tags]]
+- [[Graph View]]
