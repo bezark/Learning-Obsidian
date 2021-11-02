@@ -1,1 +1,4 @@
-This is an 
+# Welcome to the Learning Obsidian Coding Lab Workshop!
+
+[[Workshop Outline]]
+
