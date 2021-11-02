@@ -1,0 +1,4 @@
+- Privacy
+- Data Portability
+- Customization
+- Robust Community
