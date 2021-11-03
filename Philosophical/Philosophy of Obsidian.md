@@ -1,6 +1,9 @@
+Obsidian Values
 - Privacy
 - Data Portability
 - Customization
 - Robust Community
 
-Good for creating [[Atomic Notes]] and [[Digital Gardens]]
+Good for creating [[Digital Gardens]]
+
+[[How to Make a Good Digital Garden]]

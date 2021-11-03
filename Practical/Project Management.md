@@ -1,5 +1,7 @@
 Many Different ways to do it!
 
+
+# Todo List
 Heres a basic todo list!
 
 - [ ] Task A
@@ -9,5 +11,6 @@ Heres a basic todo list!
 
 # More complicated 
 - [[Tasks]]
+- Checklist
 - [[Kanban]]
 - [[Dataview]]

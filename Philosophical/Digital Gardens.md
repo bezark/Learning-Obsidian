@@ -13,7 +13,10 @@ Digital Gardens are kind of like personal Wikis- they are a series of loosely or
 [^1]: [Maggie Appleton's Essay](https://maggieappleton.com/garden-history)
 
 
-### The Garden as articulated in [[The Garden and the Stream A Technopastoral]]
+### The Garden as articulated in [The Garden and the Stream A Technopastoral](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+
+
+A key idea is the notion of cultivating a GARDEN instead of a STREAM.
 
 
 >The Garden is an old metaphor associated with hypertext. Those familiar with the history will recognize this. [[The Garden of Forking Paths]] from the mid-20th century. The concept of the Wiki Gardener from the 1990s. Mark Bernstein’s 1998 essay [[Hypertext Gardens]].

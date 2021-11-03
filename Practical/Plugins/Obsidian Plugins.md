@@ -9,9 +9,16 @@ Notable Plugins include:
 - Search
 - Graph View
 - Tag Pane
-- Backlinks
+- Back-links
+- Daily Notes
+- Favorites
+- Publish
+- Sync
 
-# Community Plugins
+# Notable Community Plugins
+- Calendar
+- Sliding Panes
 - [[Kanban]]
 - [[Tasks]]
 - [[Dataview]]
+- [[Excalidraw Drawing.excalidraw]]

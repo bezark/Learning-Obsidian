@@ -1,5 +1,0 @@
-- [[Links and Backlinks]]
-- Searching
-- [[Files]] and [[Folders]]
-- [[Tags]]
-- [[Graph View]]
