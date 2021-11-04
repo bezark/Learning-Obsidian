@@ -6,3 +6,6 @@ This 'vault' is primarily a bunch of Markdown files linked together with Wikilin
 
 [Installing Obsidian](https://obsidian.md/) will make navigating this vault much easier
 
+
+
+[[Workshop Outline]]

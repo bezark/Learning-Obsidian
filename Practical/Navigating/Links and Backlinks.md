@@ -34,7 +34,13 @@ But we can do even MORE with links- we can EMBED them. To do that just add and `
 
 eg:
 ![[Workshop Outline]]
+
+---
+
 ![[Workshop Outline#Intro]]
+
+---
+
 ![[Workshop Outline#^a0a783]]
 
 # Backlinks

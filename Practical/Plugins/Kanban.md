@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Stuff
 
-- [ ] Mow the lawn
 - [ ] Buy a house that has a lawn
+- [ ] Mow the pawn
 
 
 ## Other Stuff
 
-- [ ] Mow the pawn
+- [ ] Mow the lawn
 
 
 
